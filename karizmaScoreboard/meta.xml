@@ -1,0 +1,6 @@
+<meta>
+<file src="font.ttf" />
+<file src="imgs/panel.png"/>
+<script src="karizma_c.luac" type="client" cache="false" />
+<script src="karizma_s.lua" type="shared" />
+</meta>
